@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/maarquis1441304.lwc-l0vezlqf-fork-l0vfhe32",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve ePxzP44mUyZhszqDjzui --open"
+  }
+}
